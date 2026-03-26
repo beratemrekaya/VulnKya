@@ -1,6 +1,6 @@
 # VeroniceRoot
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,100:fad0c4&height=200&section=header&text=VeronicaRoot&fontSize=40&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2a0845,100:6441a5&height=200&section=header&text=VeronicaRoot&fontSize=40&fontColor=ffffff)
 
 ## ₿ Support / Donate
 **BTC Address:**
